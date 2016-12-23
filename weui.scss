@@ -1,0 +1,72 @@
+@import "./base/reset.scss";
+
+// icon font
+@import "./icon/weui-icon_font.scss";
+
+
+// button
+@import "./widget/weui-button/weui-button.scss";
+
+// cell
+@import "./widget/weui-cell/weui-cell_global.scss";
+
+@import "./widget/weui-cell/weui-access.scss";
+@import "./widget/weui-cell/weui-check.scss";
+@import "./widget/weui-cell/weui-form.scss";
+@import "./widget/weui-cell/weui-gallery";
+@import "./widget/weui-cell/weui-switch.scss";
+@import "./widget/weui-cell/weui-uploader.scss";
+
+// msg
+@import "./widget/weui-page/weui-msg.scss";
+
+// article
+@import "./widget/weui-page/weui-article.scss";
+
+// tab
+@import "./widget/weui-tab/weui-tab.scss";
+
+// progress
+@import "./widget/weui-progress/weui-progress.scss";
+
+// panel
+@import "./widget/weui-panel/weui-panel.scss";
+
+// media box
+@import "./widget/weui-media-box/weui-media-box.scss";
+
+// grid
+@import "./widget/weui-grid/weui-grid.scss";
+
+// copyright
+@import "./widget/weui-footer/weui-footer.scss";
+
+
+// flex
+@import "./widget/weui-flex/weui-flex.scss";
+
+// tips
+@import "./widget/weui-tips/weui-dialog.scss";
+@import "./widget/weui-tips/weui-toast.scss";
+@import "./widget/weui-tips/weui-mask.scss";
+@import "./widget/weui-tips/weui-actionsheet.scss";
+@import "./widget/weui-tips/weui-loadmore.scss";
+@import "./widget/weui-tips/weui-badge.scss";
+
+//searchbar
+@import "./widget/weui-searchbar/weui-searchbar.scss";
+
+// picker
+@import "./widget/weui-picker/weui-picker.scss";
+
+// animate
+@import "./widget/weui-animate/weui-animate.scss";
+
+// agree
+@import "./widget/weui-agree/weui-agree.scss";
+
+// loading
+@import "./widget/weui-loading/weui-loading.scss";
+
+// slider
+@import "./widget/weui-slider/weui-slider.scss";
